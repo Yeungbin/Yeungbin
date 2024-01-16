@@ -1,16 +1,25 @@
-### Hi! I'm Yeungbin 👋
+<h1 align="center">Hi! I'm Yeungbin 👋</h1>
 
-<!--
-**Yeungbin/Yeungbin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 Projects
+- **Simultaneous Localization and Mapping (SLAM)**
+  - ing
+- **Computer Vision**
+  - ing
+- **Imaging**
+  - ing
+- **Deep Learning**
+  - ing
 
-Here are some ideas to get you started:
+## 🔭 Careers
+- Received a Bachelor of Business Administration degree at Korea University (2019-2024)
+- Received a Bachelor of Science degree in Artificial Intelligence at Korea University (2019-2024)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ⚡ Community Activities
+- Admin of a SLAM research community group: [**'Spatial AI KR'**](https://open.kakao.com/o/g8T5kxLb)
+- Personal research blog (Korean):
+
+## 📫 Contacts
+- LinkedIn: [Link](www.linkedin.com/in/yeungbinlee)
+- Blog: 
+
+![profile_view_counter](https://komarev.com/ghpvc/?username=Yeungbin)
