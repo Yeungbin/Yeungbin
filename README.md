@@ -11,7 +11,7 @@
 
 ## 🌱 Projects
 - **Detecting TikTok Trends with a Graph-Based Framework: Semantic Embeddings and Community Detection**
-  - Academic-Industry Collaboration Project with SNOW
+  - Academic-Industry collaboration project with SNOW
   - Developed an automated trend analysis and prediction system using graph embedding techniques to replace manual trend detection on social media
 - **Modeling for food ingredient detection and freshness analysis**
   - Developed a food item detection and freshness classification model for a hyperlocal ingredient-sharing service to help reduce food loss 
